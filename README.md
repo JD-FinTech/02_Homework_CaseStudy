@@ -5,7 +5,7 @@
 ## Overview:
 * Founded in 2014, OakNorth Bank is a commercial and business bank headquartered in London, UK.  The company provides financing solutions in the form of debt financing, property funding, capital for recapitalizations. Oak North also offers business deposit savings solutions.
 
-* The company was founded by Rishi Khosla based on his own frustrations accessing capital from commercial banks when he had successfully bulit his prior firm, Copal, into a fast-growing growth company.  Rishi was able to obtain a credit facility from an institutional desk but not from a commercial bank. He noticed that the system was broken due to the disconnect in lending appetite between the various financial institutions.  As a result, he decided to create his own company to address the problem.
+* The company was founded by Rishi Khosla based on his own frustrations accessing capital from commercial banks when he had successfully built his prior firm, Copal, into a fast-growing growth company.  Rishi was able to obtain a credit facility from an institutional desk but not from a commercial bank. He noticed that the system was broken due to the disconnect in lending appetite between the various financial institutions.  As a result, he decided to create his own company to address the problem.
 
 * According to Crunchbase, as of August 26th, 2019, OakNorth has received over a billion in funding from nine investors.  The most recent fundraise for $440 million from the SoftBank Vision Fund in February of 2019.  
 
