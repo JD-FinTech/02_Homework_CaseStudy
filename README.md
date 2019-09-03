@@ -1,7 +1,6 @@
 # OakNorth AI Case Study
 ### Prepared by Jeneia Mullins
 
-![OakNorth AI image](https://www.oaknorth.ai/wp-content/themes/oakit/img/layout/logo.svg)
 
 ## Overview:
 * Founded in 2014, OakNorth Bank is a commercial and business bank headquartered in London, UK.  The company provides financing solutions in the form of debt financing, property funding, capital for recapitalizations. Oak North also offers business deposit savings solutions.
